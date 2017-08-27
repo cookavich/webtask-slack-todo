@@ -1,5 +1,4 @@
 "use latest";
-var axios = require('axios');
 var firebase = require('firebase');
 module.exports = (ctx, cb) => {
     var config = {
