@@ -14,5 +14,5 @@ The only other thing you need to be sure is have the NPM module Firebase install
 
 ## TODO
 
-- [] More feedback to users if they enter in a wrong command
-- [] Ability to return filtered todos based on complete/incomplete
+- [ ] More feedback to users if they enter in a wrong command
+- [ ] Ability to return filtered todos based on complete/incomplete
